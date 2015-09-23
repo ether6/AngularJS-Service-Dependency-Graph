@@ -1,6 +1,9 @@
 # AngularJS-Service-Dependency-Graph
 Draws a directed graph of your app's AngularJS Services.
 <hr>
+<img src="example.png" alt="">
+<p><i>Example of TurboTax's Help System</i></p>
+<hr>
 To use:
 
 1. Include the following HTML in a page/view that has access to your Angular application
